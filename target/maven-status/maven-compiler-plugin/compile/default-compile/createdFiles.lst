@@ -1,0 +1,6 @@
+org\example\OkHTTP\MyOkHTTP.class
+org\example\ForecastModel\WeatherResponseModel$Meta.class
+org\example\ForecastModel\WeatherResponseModel.class
+org\example\Main.class
+org\example\ForecastModel\WeatherResponseModel$DataObj.class
+org\example\OkHTTP\MyOkHTTP$1.class
